@@ -1,1 +1,3 @@
-# Dynamic-ArrayCPP
+Dynamic Array
+
+Language: C++
